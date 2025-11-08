@@ -54,6 +54,8 @@
 
 <br>
 
+CompanyCoreServer (Backend): 본 클라이언트와 통신하는 Spring Boot 백엔드 서버입니다.
+
 <a id="-프로젝트-구조"></a>
 ## 📁 프로젝트 구조
 ```bash
@@ -88,5 +90,3 @@ src/main/
     │       ├── mailContent.fxml
     │       └── tasksContent.fxml
     └── images/
-
-CompanyCoreServer (Backend): 본 클라이언트와 통신하는 Spring Boot 백엔드 서버입니다.
