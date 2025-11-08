@@ -88,3 +88,5 @@ src/main/
     │       ├── mailContent.fxml
     │       └── tasksContent.fxml
     └── images/
+
+CompanyCoreServer (Backend): 본 클라이언트와 통신하는 Spring Boot 백엔드 서버입니다.
